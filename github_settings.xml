@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="pranaythoutam@iheartmedia.com" />
+    <option name="HOST" value="http://www.github.com/" />
+    <option name="AUTH_TYPE" value="BASIC" />
+  </component>
+</application>

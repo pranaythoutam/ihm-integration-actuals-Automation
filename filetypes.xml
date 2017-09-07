@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="registe_page.rb" type="PLAIN_TEXT" />
+      <mapping pattern="85080_local_ae_pending_end_date_on_the_opportunity_matches_the_latest_end_date_on_product.feature" type="PLAIN_TEXT" />
+      <mapping pattern="vit_salesforce_create_new_national_opportunity.feature" type="PLAIN_TEXT" />
+      <mapping pattern="54462_verify the opportunity product optin with products.feature" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="XML" />
+    </extensionMap>
+  </component>
+</application>
